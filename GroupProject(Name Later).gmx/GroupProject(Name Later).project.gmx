@@ -9,19 +9,13 @@
     <sprite>sprites\spr_block</sprite>
     <sprite>sprites\test_sprite</sprite>
   </sprites>
-  <backgrounds name="background">
-    <background>background\bgScenary_tileset_rpg</background>
-  </backgrounds>
+  <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object0</object>
   </objects>
   <rooms name="rooms">
-<<<<<<< HEAD
     <room>rooms\room_test__cb_</room>
-=======
-    <room>rooms\rm_TestLevel_E_</room>
->>>>>>> origin/master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
