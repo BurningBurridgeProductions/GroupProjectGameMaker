@@ -12,7 +12,8 @@
     <sprite>sprites\sprite3</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\background0</background>
+    <background>background\bg_MainLevel</background>
+    <background>background\bg_Deocrations</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\wadawdawd</path>
