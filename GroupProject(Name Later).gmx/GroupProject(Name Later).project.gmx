@@ -9,13 +9,17 @@
     <sprite>sprites\spr_block</sprite>
     <sprite>sprites\test_sprite</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bg_test</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object0</object>
+    <object>objects\obj_player</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_test__cb_</room>
+    <room>rooms\room_test</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
