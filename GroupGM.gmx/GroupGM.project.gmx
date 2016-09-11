@@ -8,9 +8,13 @@
   <sprites name="sprites">
     <sprite>sprites\spr_block</sprite>
     <sprite>sprites\asdpiuahsduip</sprite>
+    <sprite>sprites\spr_test</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_playerLOLOL</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
