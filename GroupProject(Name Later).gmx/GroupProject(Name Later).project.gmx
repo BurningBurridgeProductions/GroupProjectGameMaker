@@ -9,11 +9,16 @@
     <sprite>sprites\spr_block</sprite>
     <sprite>sprites\test_sprite</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bgScenary_tileset_rpg</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object0</object>
   </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_TestLevel_E_</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
