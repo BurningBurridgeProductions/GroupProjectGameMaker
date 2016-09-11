@@ -10,14 +10,21 @@
     <sprite>sprites\test_sprite</sprite>
     <sprite>sprites\sprite2</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bg_test</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object0</object>
+    <object>objects\obj_player</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_test__cb_</room>
+<<<<<<< HEAD
     <room>rooms\new_test</room>
+=======
+    <room>rooms\room_test</room>
+>>>>>>> origin/master
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
