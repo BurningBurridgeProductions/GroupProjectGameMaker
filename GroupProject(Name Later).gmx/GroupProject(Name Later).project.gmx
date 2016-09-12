@@ -17,6 +17,11 @@
         <sprite>sprites\Button_Pressed_OP</sprite>
       </sprites>
     </sprites>
+    <sprites name="menu's">
+      <sprites name="exit menu">
+        <sprite>sprites\sample_menu</sprite>
+      </sprites>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_MainLevel</background>
@@ -26,6 +31,9 @@
   <objects name="objects">
     <object>objects\obj_Button_ST</object>
     <object>objects\obj_Button_OP</object>
+    <objects name="menus's">
+      <object>objects\obj_exitMenu</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\Main_Menu</room>
