@@ -26,6 +26,9 @@
       <sprite>sprites\spr_PlayerIdle</sprite>
       <sprite>sprites\spr_Playerwalk</sprite>
     </sprites>
+    <sprites name="AnimatedBackgrounds">
+      <sprite>sprites\sprite8</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_MainLevel</background>
@@ -45,6 +48,12 @@
     <object>objects\obj_charecter</object>
 =======
     <object>objects\obj_bgMovementSpeed</object>
+<<<<<<< HEAD
+    <objects name="Background Animated">
+      <object>objects\Obj_Waterfall_BG</object>
+    </objects>
+=======
+>>>>>>> origin/master
 >>>>>>> origin/master
 =======
 >>>>>>> parent of 3916b39... exit menu in the works
