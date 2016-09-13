@@ -47,6 +47,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5d3a071... issue
     <object>objects\obj_charecter</object>
@@ -66,6 +67,8 @@
 >>>>>>> parent of 3916b39... exit menu in the works
 =======
 >>>>>>> parent of 5d3a071... issue
+=======
+>>>>>>> parent of 3916b39... exit menu in the works
   </objects>
   <rooms name="rooms">
     <room>rooms\Main_Menu</room>
