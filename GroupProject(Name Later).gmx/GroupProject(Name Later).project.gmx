@@ -38,6 +38,7 @@
     <objects name="menus's">
       <object>objects\obj_exitMenu</object>
     </objects>
+    <object>objects\obj_charecter</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Main_Menu</room>
