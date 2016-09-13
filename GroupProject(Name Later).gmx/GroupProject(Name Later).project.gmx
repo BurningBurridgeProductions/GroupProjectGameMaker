@@ -22,6 +22,7 @@
         <sprite>sprites\sample_menu</sprite>
       </sprites>
     </sprites>
+<<<<<<< HEAD
     <sprites name="PlayerSprite">
       <sprite>sprites\spr_PlayerIdle</sprite>
       <sprite>sprites\spr_Playerwalk</sprite>
@@ -29,6 +30,8 @@
     <sprites name="AnimatedBackgrounds">
       <sprite>sprites\sprite8</sprite>
     </sprites>
+=======
+>>>>>>> parent of 6614419... Tileset and Player Sprites (Test ones)
   </sprites>
   <backgrounds name="background">
     <background>background\bg_MainLevel</background>
