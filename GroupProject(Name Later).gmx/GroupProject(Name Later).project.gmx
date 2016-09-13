@@ -47,6 +47,16 @@
       <object>objects\obj_exitMenu</object>
     </objects>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 5d3a071... issue
+>>>>>>> origin/master
     <object>objects\obj_charecter</object>
 =======
     <object>objects\obj_bgMovementSpeed</object>
@@ -56,6 +66,20 @@
     </objects>
 =======
 >>>>>>> origin/master
+>>>>>>> origin/master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 3916b39... exit menu in the works
+=======
+>>>>>>> parent of 3916b39... exit menu in the works
+=======
+>>>>>>> parent of 5d3a071... issue
+=======
+>>>>>>> parent of 3916b39... exit menu in the works
+=======
+>>>>>>> parent of 3916b39... exit menu in the works
 >>>>>>> origin/master
   </objects>
   <rooms name="rooms">
