@@ -46,6 +46,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 5d3a071... issue
     <object>objects\obj_charecter</object>
 =======
     <object>objects\obj_bgMovementSpeed</object>
@@ -56,10 +59,13 @@
 =======
 >>>>>>> origin/master
 >>>>>>> origin/master
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 3916b39... exit menu in the works
 =======
 >>>>>>> parent of 3916b39... exit menu in the works
+=======
+>>>>>>> parent of 5d3a071... issue
   </objects>
   <rooms name="rooms">
     <room>rooms\Main_Menu</room>
