@@ -30,6 +30,8 @@
   <backgrounds name="background">
     <background>background\bg_MainLevel</background>
     <background>background\bg_Deocrations</background>
+    <background>background\bg_sky</background>
+    <background>background\bg_water</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -38,9 +40,13 @@
     <objects name="menus's">
       <object>objects\obj_exitMenu</object>
     </objects>
+    <object>objects\obj_bgMovementSpeed</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Main_Menu</room>
+    <rooms name="Test Rooms For Tilesets">
+      <room>rooms\rm_TilesetTest</room>
+    </rooms>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
