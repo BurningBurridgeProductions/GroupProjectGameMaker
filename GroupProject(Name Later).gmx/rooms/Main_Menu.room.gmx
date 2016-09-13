@@ -10,7 +10,7 @@
   <persistent>0</persistent>
   <colour>4194368</colour>
   <showcolour>-1</showcolour>
-  <code></code>
+  <code>global.DESEM = false;</code>
   <enableViews>0</enableViews>
   <clearViewBackground>-1</clearViewBackground>
   <clearDisplayBuffer>-1</clearDisplayBuffer>
@@ -53,6 +53,7 @@
   <instances>
     <instance objName="obj_Button_ST" x="416" y="320" name="inst_87D8D6B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Button_OP" x="416" y="416" name="inst_BAA19F2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_charecter" x="640" y="288" name="inst_F135ED27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

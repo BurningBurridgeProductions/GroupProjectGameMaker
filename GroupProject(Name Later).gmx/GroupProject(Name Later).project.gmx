@@ -43,10 +43,17 @@
     <objects name="menus's">
       <object>objects\obj_exitMenu</object>
     </objects>
+<<<<<<< HEAD
+    <object>objects\obj_charecter</object>
+=======
     <object>objects\obj_bgMovementSpeed</object>
+<<<<<<< HEAD
     <objects name="Background Animated">
       <object>objects\Obj_Waterfall_BG</object>
     </objects>
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master
   </objects>
   <rooms name="rooms">
     <room>rooms\Main_Menu</room>
