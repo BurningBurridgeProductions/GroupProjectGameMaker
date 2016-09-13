@@ -26,6 +26,9 @@
       <sprite>sprites\spr_PlayerIdle</sprite>
       <sprite>sprites\spr_Playerwalk</sprite>
     </sprites>
+    <sprites name="AnimatedBackgrounds">
+      <sprite>sprites\sprite8</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_MainLevel</background>
@@ -41,6 +44,9 @@
       <object>objects\obj_exitMenu</object>
     </objects>
     <object>objects\obj_bgMovementSpeed</object>
+    <objects name="Background Animated">
+      <object>objects\Obj_Waterfall_BG</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\Main_Menu</room>
